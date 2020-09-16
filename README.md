@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built for using some intermediate and advanced concepts in React.js such as Routing, Context API, etc
+The Website is not functional ie all the stuff is hardcoded.
+This project is really good exposure to the React/CSS ecosystem
+Deployment with firebase.
 
 ## Available Scripts
 
